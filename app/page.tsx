@@ -131,7 +131,7 @@ export default function ZallFashionStore() {
             <div className="h-[600px] rounded-[40px] overflow-hidden border border-white/10 shadow-2xl">
 
               <img
-                src="Public/image/boy.jpeg"
+                src= "/image/boy.jpeg
                 alt="fashion"
                 className="w-full h-full object-cover transition-all duration-1000"
               />
@@ -269,21 +269,21 @@ export default function ZallFashionStore() {
             {
               title: "تیشرت مشکی (با تخفیف ویژه محرم)",
               price: "900,000",
-              image: "/image/T-siah.jpg"
+              image: "/image/T-siah.jpg
                 
             },
 
             {
               title: "تیشرت سفید نخ پنبه ۲۸",
               price: "850,000",
-              image: "/image/T-s.jpg"
+              image: "/image/T-s.jpg
                
             },
 
             {
               title: "تیشرت آبی یخی نخ پنبه ۲۸",
               price: "850,000",
-              image: "/image/T-ice.jpg"
+              image: "/image/T-ice.jpg
                 
             },
 
