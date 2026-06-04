@@ -131,7 +131,7 @@ export default function ZallFashionStore() {
             <div className="h-[600px] rounded-[40px] overflow-hidden border border-white/10 shadow-2xl">
 
               <img
-                src="/image/boy.jpeg"
+                src="Public/image/boy.jpeg"
                 alt="fashion"
                 className="w-full h-full object-cover transition-all duration-1000"
               />
