@@ -262,7 +262,7 @@ export default function ZallFashionStore() {
             {
               title: "تیشرت کرمی نخ پنبه۲۸",
               price: "850,000",
-              image: "/image/T-k.jpg"
+              image: "/Zaal-store/image/T-k.jpg"
                
             },
 
