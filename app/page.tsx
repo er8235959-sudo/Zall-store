@@ -261,28 +261,28 @@ export default function ZallFashionStore() {
           {[
             {
               title: "تیشرت کرمی نخ پنبه۲۸",
-              price: "880,000",
+              price: "850,000",
               image: "/image/T-k.jpg"
                
             },
 
             {
               title: "تیشرت مشکی (با تخفیف ویژه محرم)",
-              price: "930,000",
+              price: "900,000",
               image: "/image/T-siah.jpg"
                 
             },
 
             {
               title: "تیشرت سفید نخ پنبه ۲۸",
-              price: "880,000",
+              price: "850,000",
               image: "/image/T-s.jpg"
                
             },
 
             {
               title: "تیشرت آبی یخی نخ پنبه ۲۸",
-              price: "880,000",
+              price: "850,000",
               image: "/image/T-ice.jpg"
                 
             },
