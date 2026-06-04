@@ -297,10 +297,10 @@ export default function ZallFashionStore() {
               <div className="h-80 overflow-hidden">
 
                 <img
-                  src={product.image}
-                  alt={product.title}
-                  className="w-full h-full object-cover hover:scale-105 transition duration-500"
-                />
+  src={product.image}
+  alt={product.title}
+  className="w-full h-80 object-cover rounded-2xl"
+/>
 
               </div>
 
