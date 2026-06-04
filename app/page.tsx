@@ -258,34 +258,29 @@ export default function ZallFashionStore() {
 
         <div className="grid md:grid-cols-4 gap-6">
 
-          {[
-            {
-              title: "تیشرت کرمی نخ پنبه۲۸",
-              price: "850,000",
-              image: "/image/T-k.jpg
-               
-            },
+{
+  title: "تیشرت کرمی نخ پنبه۲۸",
+  price: "850,000",
+  image: "/image/T-k.jpg"
+},
 
-            {
-              title: "تیشرت مشکی (با تخفیف ویژه محرم)",
-              price: "900,000",
-              image: "/image/T-siah.jpg
-                
-            },
+{
+  title: "تیشرت مشکی (با تخفیف ویژه محرم)",
+  price: "900,000",
+  image: "/image/T-siah.jpg"
+},
 
-            {
-              title: "تیشرت سفید نخ پنبه ۲۸",
-              price: "850,000",
-              image: "/image/T-s.jpg
-               
-            },
+{
+  title: "تیشرت سفید نخ پنبه ۲۸",
+  price: "850,000",
+  image: "/image/T-s.jpg"
+},
 
-            {
-              title: "تیشرت آبی یخی نخ پنبه ۲۸",
-              price: "850,000",
-              image: "/image/T-ice.jpg
-                
-            },
+{
+  title: "تیشرت آبی یخی نخ پنبه ۲۸",
+  price: "850,000",
+  image: "/image/T-ice.jpg"
+},
 
           ].map((product, index) => (
 
