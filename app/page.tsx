@@ -267,7 +267,7 @@ export default function ZallFashionStore() {
 {
   title: "تیشرت مشکی (با تخفیف ویژه محرم)",
   price: "900,000",
-  image: "/image/T-siah.jpg"
+  image: "/image/T-siah
 },
 
 {
